@@ -1,6 +1,9 @@
 # web-coding-class
 Final for web coding 
 
+<script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization','version':'1.1','packages':['bar']}]}"></script>
+<div id="dual_x_div" style="width: 900px; height: 500px;"></div>
+
 # Introduction
 
 While I hate to agree with Taylor Swift, and I also hate to give money to the rich, I wanted to look more into how much artist actually get from different outlets of selling their music. While the number of plays/purchased items does seem disproportionate to the amount of money the artist recieves, through this study I think that the record companies are more to blame that the systems that supply fans the music. 
